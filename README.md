@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siddhartha Kaji Makaju Shrestha 
 - 👀 I’m interested in inovation and change
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on backend development projects
+- 💞️ I’m looking to collaborate on backend development projects , data analytics and AI
 - 📫 How to reach me email: sidstha444@gmail.com
 
 <!---
