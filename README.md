@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Siddhartha Kaji Makaju Shrestha 
 - 👀 I’m interested in innovation and change
-- 🌱 I’m currently working as full-stack Javascript/Typescript developer (backend major)
-- 💞️ I’m looking to collaborate on full-stack applications.
 - 📫 How to reach me email: sidstha444@gmail.com
 
 <!---
