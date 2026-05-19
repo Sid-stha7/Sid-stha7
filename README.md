@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Siddhartha Kaji Makaju Shrestha 
+- 👋 Hi, I’m Siddhartha Shrestha 
 - 👀 I’m interested in innovation and change
 - 📫 How to reach me email: sidstha444@gmail.com
 
