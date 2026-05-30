@@ -4,13 +4,6 @@
 
 I am a software engineer passionate about the technical mechanics of modern computing. My focus lies in distributed systems, high-performance computing (HPC), and concurrency, with a strong background in backend development and systems engineering.
 
-### 🚀 Quick Highlights
-
-*   🎓 Currently pursuing an MS in Computer Science, building on experience from previous software engineering roles.
-*   🛠️ Passionate about building privacy-first tools and exploring local AI implementations.
-*   🏆 Recently collaborated and competed in the 48-hour Nepal-US Hackathon. 
-*   ⚡ Outside of tech, I stay active by lifting, playing point guard on the basketball court, and bringing my experience as a former soccer captain to the pitch.
-
 ### 💻 Tech Stack & Interests
 
 *   **Languages:** Go, Python, TypeScript, JavaScript, C++, JAVA, C
@@ -26,6 +19,7 @@ I am a software engineer passionate about the technical mechanics of modern comp
 
 ---
 *Always open to discussing system architecture, backend optimization, or the latest on the pitch.*
+*Contact: sidstha444@gmail.com*
 
 <!---
 Sid-stha7/Sid-stha7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
