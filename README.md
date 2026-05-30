@@ -1,6 +1,6 @@
 # Hi there, I'm Siddhartha (Kaji) 👋
 
-**Software Engineer | MSCS at Wright State University | High-Performance Computing & Scalable Distributed Systems practitioner**
+**Software Engineer | High-Performance Computing & Scalable Distributed Systems practitioner**
 
 I am a software engineer passionate about the technical mechanics of modern computing. My focus lies in distributed systems, high-performance computing (HPC), and concurrency, with a strong background in backend development and systems engineering.
 
