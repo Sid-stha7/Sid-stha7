@@ -1,6 +1,31 @@
-- 👋 Hi, I’m Siddhartha Shrestha 
-- 👀 I’m interested in innovation and change
-- 📫 How to reach me email: sidstha444@gmail.com
+# Hi there, I'm Siddhartha (Kaji) 👋
+
+**Software Engineer | MSCS at Wright State University | High-Performance Computing & Scalable Distributed Systems practitioner **
+
+I am a software engineer passionate about the technical mechanics of modern computing. My focus lies in distributed systems, high-performance computing (HPC), and concurrency, with a strong background in backend development and systems engineering.
+
+### 🚀 Quick Highlights
+
+*   🎓 Currently pursuing an MS in Computer Science, building on experience from previous software engineering roles.
+*   🛠️ Passionate about building privacy-first tools and exploring local AI implementations.
+*   🏆 Recently collaborated and competed in the 48-hour Nepal-US Hackathon. 
+*   ⚡ Outside of tech, I stay active by lifting, playing point guard on the basketball court, and bringing my experience as a former soccer captain to the pitch.
+
+### 💻 Tech Stack & Interests
+
+*   **Languages:** Go, Python, TypeScript, JavaScript, C++, JAVA, C
+*   **Frameworks & Tools:** Node.js, FastAPI, Next.js, CUDA
+*   **Architecture & Concepts:** Distributed Systems, Concurrency, API Design, High-Performance Computing
+
+### 🔬 Featured Projects
+
+*   **Burnout Radar** 
+    A privacy-centric, account-free application that visualizes workload and generates pacing plans, powered entirely by local AI using Ollama and phi4-mini.
+*   **Tail at Scale Simulator** 
+    A Go-based microservice built to simulate "Differentiating Service Classes"—a latency mitigation strategy—utilizing the Biased Select Pattern.
+
+---
+*Always open to discussing system architecture, backend optimization, or the latest on the pitch.*
 
 <!---
 Sid-stha7/Sid-stha7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
