@@ -4,13 +4,13 @@
 
 I am a software engineer passionate about the technical mechanics of modern computing. My focus lies in distributed systems, high-performance computing (HPC), and concurrency, with a strong background in backend development and systems engineering.
 
-### 💻 Tech Stack & Interests
+### Tech Stack & Interests
 
 *   **Languages:** Go, Python, TypeScript, JavaScript, C++, JAVA, C
 *   **Frameworks & Tools:** Node.js, FastAPI, Next.js, CUDA
 *   **Architecture & Concepts:** Distributed Systems, Concurrency, API Design, High-Performance Computing
 
-### 🔬 Featured Projects
+### Featured Projects
 
 *   **Burnout Radar** 
     A privacy-centric, account-free application that visualizes workload and generates pacing plans, powered entirely by local AI using Ollama and phi4-mini.
