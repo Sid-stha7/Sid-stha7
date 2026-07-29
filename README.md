@@ -15,7 +15,7 @@ I am a software engineer passionate about the technical mechanics of modern comp
 *   **Burnout Radar** 
     A privacy-centric, account-free application that visualizes workload and generates pacing plans, powered entirely by local AI using Ollama and phi4-mini.
 *   **Tail at Scale Simulator** 
-    A Go-based microservice built to simulate "Differentiating Service Classes"—a latency mitigation strategy—utilizing the Biased Select Pattern.
+    A Go-based microservice built to simulate "Differentiating Service Classes" a latency mitigation strategy—utilizing the Biased Select Pattern.
 
 ---
 *Always open to discussing system architecture, backend optimization, or the latest on the pitch.*
